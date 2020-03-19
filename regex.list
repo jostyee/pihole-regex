@@ -13,3 +13,9 @@
 ^mads\.
 ^pixels?[-.]
 ^stat(s|istics)?[0-9]*[_.-]
+(^|\.)buffpanel\.com$
+(^|\.)bugsnag\.com$
+(^|\.)redshell\.io$
+(^|\.)treasuredata\.com$
+(^|\.)unity(|3d)\.com$
+(^|\.)unityads(|\.co)\.com$
