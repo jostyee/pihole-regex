@@ -19,3 +19,4 @@
 (^|\.)treasuredata\.com$
 (^|\.)unity(|3d)\.com$
 (^|\.)unityads(|\.co)\.com$
+^hitcounter?[_.-]
